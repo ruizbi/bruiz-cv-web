@@ -1,0 +1,110 @@
+.Header {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    color: #F6F6F6;
+    min-height: 512px;
+}
+.Header-wave {
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+}
+.Header-wave-svg {
+    height: 100%;
+    width: 100%;
+}
+.Header-wave-path {
+    stroke: none; fill: #664E88;
+}
+.Header-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    max-width: 1400px;
+}
+
+.Header-info {
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    height: 100vh;
+    min-height: 525px;
+    cursor: default;
+
+}
+
+.Header-info h1 {
+    font-size: 72px;
+    font-weight: bolder;
+    color: #9D5C0D;
+}
+
+.Header-info span {
+    margin: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #3a3a3a;
+}
+
+.Header-info p {
+    font-size: 16px;
+    font-weight: bold;
+    color: #3a3a3a;
+}
+
+.Header-info h2 {
+    font-size: 32px;
+    font-weight: bolder;
+    color: #E5890A;
+}
+
+.Header-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100vh;
+    min-height: 525px;
+}
+
+.Header-wrapper-form {
+    clip-path: circle(50% at 50% 50%);
+    background-image: url('./perfil.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 340px;
+    height: 340px;
+}
+
+.Header-contenedor-links {
+    display: flex;
+    justify-content: space-between;
+    width: 160px;
+}
+
+.Header-contenedor-links a {
+    display: inline-block;
+    padding: 2px;
+    border-radius: 8px;
+    border: 2px solid #E5890A;
+    text-decoration: none;
+    color: #E5890A;
+    font-weight: bold;
+    transition: ease .1s;
+}
+
+.Header-contenedor-links a:hover {
+    background: #E5890A;
+    color: #F6F6F6;
+}
+
+.Header-contenedor-links a:active {
+    background: #9D5C0D;
+    border-color: #9D5C0D;
+    color: #F6F6F6;
+}
