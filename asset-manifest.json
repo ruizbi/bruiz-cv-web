@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bruiz-cv-web/static/css/main.2b3dc435.chunk.css",
-    "main.js": "/bruiz-cv-web/static/js/main.2004d4b6.chunk.js",
-    "main.js.map": "/bruiz-cv-web/static/js/main.2004d4b6.chunk.js.map",
+    "main.js": "/bruiz-cv-web/static/js/main.c19b55ee.chunk.js",
+    "main.js.map": "/bruiz-cv-web/static/js/main.c19b55ee.chunk.js.map",
     "runtime-main.js": "/bruiz-cv-web/static/js/runtime-main.4a0a03e6.js",
     "runtime-main.js.map": "/bruiz-cv-web/static/js/runtime-main.4a0a03e6.js.map",
     "static/js/2.4d99406c.chunk.js": "/bruiz-cv-web/static/js/2.4d99406c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4a0a03e6.js",
     "static/js/2.4d99406c.chunk.js",
     "static/css/main.2b3dc435.chunk.css",
-    "static/js/main.2004d4b6.chunk.js"
+    "static/js/main.c19b55ee.chunk.js"
   ]
 }
