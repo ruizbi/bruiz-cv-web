@@ -121,6 +121,9 @@
         height: 900px;
         min-width: 0;
     }
+    .Contact-titulo {
+        margin-top: 24px;
+    }
     .Contact-container {
         display: flex;
         height: 800px;

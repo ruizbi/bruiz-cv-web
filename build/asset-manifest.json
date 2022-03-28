@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bruiz-cv-web/static/css/main.2b3dc435.chunk.css",
+    "main.js": "/bruiz-cv-web/static/js/main.2004d4b6.chunk.js",
+    "main.js.map": "/bruiz-cv-web/static/js/main.2004d4b6.chunk.js.map",
+    "runtime-main.js": "/bruiz-cv-web/static/js/runtime-main.4a0a03e6.js",
+    "runtime-main.js.map": "/bruiz-cv-web/static/js/runtime-main.4a0a03e6.js.map",
+    "static/js/2.4d99406c.chunk.js": "/bruiz-cv-web/static/js/2.4d99406c.chunk.js",
+    "static/js/2.4d99406c.chunk.js.map": "/bruiz-cv-web/static/js/2.4d99406c.chunk.js.map",
+    "index.html": "/bruiz-cv-web/index.html",
+    "static/css/main.2b3dc435.chunk.css.map": "/bruiz-cv-web/static/css/main.2b3dc435.chunk.css.map",
+    "static/js/2.4d99406c.chunk.js.LICENSE.txt": "/bruiz-cv-web/static/js/2.4d99406c.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/bruiz-cv-web/static/media/perfil.3cb70ae4.jpeg",
+    "static/media/Contact.css": "/bruiz-cv-web/static/media/undraw_contact_us_-15-o2.f0d97391.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a0a03e6.js",
+    "static/js/2.4d99406c.chunk.js",
+    "static/css/main.2b3dc435.chunk.css",
+    "static/js/main.2004d4b6.chunk.js"
+  ]
+}

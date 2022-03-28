@@ -15,7 +15,7 @@ export const Header = () => {
                     <span>Hola! Me llamo</span>
                     <h1>Bruno Ruiz</h1>
                     <h2>Desarrollador Web</h2>
-                    <p>Soy estudiante de Ingeniería en Sistemas en la Universidad Tecnologica Nacional, apasionado por lo que estudio y me considero una persona totalmente autodidacta. Dispuesto a aprender nuevas tecnologías y perfeccionarme como profesional!</p>
+                    <p>Soy desarrollador web con conocimiento en el stack MERN. A su vez, me interesan las áreas de Seguridad informática y la Inteligencia artificial. Busco mi primera oportunidad en IT para poder desarrollarme como profesional.</p>
                     <div className="Header-contenedor-links">
                         <a href="https://www.linkedin.com/in/ruizbi/"  target="_blank">LinkedIn</a>
                         <a href="https://github.com/ruizbi" target="_blank">Github</a>
